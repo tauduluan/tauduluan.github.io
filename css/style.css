@@ -6,3 +6,11 @@
 	background-color: #2F2D2F;
 	color: #fff;
 }
+
+.footer {
+	margin-top: 15px;
+}
+
+span.email {
+	height: 42px;
+}
