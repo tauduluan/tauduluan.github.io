@@ -2,6 +2,15 @@
 .mention { color: #E09710; }
 .instagram { margin-bottom: 5px; }
 
+.headline {
+	background: url(https://placeholdit.imgix.net/~text?txtsize=70&txt=Headline&w=750&h=500&txttrack=0);
+	background-repeat: no-repeat;
+}
+
+.shout {
+	padding: 50px;
+}
+
 span.email {
 	height: 42px;
 }
