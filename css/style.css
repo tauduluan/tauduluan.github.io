@@ -2,6 +2,10 @@
 .mention { color: #E09710; }
 .instagram { margin-bottom: 5px; }
 
+span.email {
+	height: 42px;
+}
+
 #footer {
 	background-color: #2F2D2F;
 	color: #fff;
@@ -9,8 +13,4 @@
 
 .footer {
 	margin-top: 15px;
-}
-
-span.email {
-	height: 42px;
 }
