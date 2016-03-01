@@ -7,6 +7,12 @@
 	background-repeat: no-repeat;
 }
 
+@media only screen and (min-width: 767) {
+	.headline {
+		width: 350px !important;
+	}
+}
+
 .shout {
 	padding: 50px;
 }
