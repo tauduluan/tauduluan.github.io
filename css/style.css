@@ -8,8 +8,12 @@
 .instagram { margin-bottom: 5px; }
 
 .headline {
-	background: url(https://placeholdit.imgix.net/~text?txtsize=70&txt=Headline&w=750&h=500&txttrack=0);
-	background-repeat: no-repeat;
+	/*width: 750px;
+	height: 500px;*/
+	/*background: url(../img/cover.png);
+	background-repeat: no-repeat;*/
+	/*color: rgba(255, 255, 255, .5);*/
+	/*color: #fff;*/
 }
 
 @media only screen and (min-width: 769) {
@@ -19,11 +23,38 @@
 }
 
 .shout {
-	padding: 50px;
+	/*color: #fff;*/
 }
 
 span.email {
 	height: 42px;
+}
+
+img.img-responsive {
+	width: 370px !important;
+	height: 223px !important;
+	float: right;
+	margin-bottom: 15px;
+}
+
+button.facebook {
+	background-color: #3b5998;
+	color: #fff;
+	/*float: right;*/
+	text-transform: uppercase;
+}
+
+button.twitter {
+	background-color: #55acee;
+	color: #fff;
+	/*float: right;*/
+	text-transform: uppercase;
+}
+
+.lennon {
+	width: 250px;
+	height: 180px;
+	/*border-radius: 200px;*/
 }
 
 div.avicii {
@@ -31,14 +62,11 @@ div.avicii {
 	-webkit-border-radius: 50%;
 	-moz-border-radius: 50%;
 	-o-border-radius: 50%;
-	/*padding: 10px 0;*/
-	/*border: 1px solid #eee;*/
-	/*display: inline-block;*/
 	color: #000;
 	background: #f8f8f8;
 	width: 40px;
 	height: 40px;
-	/*text-align: center;*/
+	float: left;
 }
 
 #footer {
