@@ -51,6 +51,14 @@ button.twitter {
 	text-transform: uppercase;
 }
 
+button.instagram {
+	margin-top: 5px;
+	background-color: #125688;
+	color: #fff;
+	/*float: right;*/
+	text-transform: uppercase;
+}
+
 .lennon {
 	width: 250px;
 	height: 180px;
