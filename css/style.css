@@ -59,6 +59,10 @@ button.instagram {
 	text-transform: uppercase;
 }
 
+.social {
+	border-radius: 50%;
+}
+
 .lennon {
 	width: 250px;
 	height: 180px;
